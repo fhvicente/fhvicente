@@ -1,9 +1,11 @@
-![Header](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)
+![Header](https://github.com/fhvicente/fhvicente/assets/134304084/ffa0d553-8157-4b74-a90b-55a3e128ef0a)
+
 
 
 <h1 align="center">Hi 👋, I'm Flávio Vicente</h1>
-<h3 align="center">A passionate Junior Software Developer from Portugal</h3>
-<img aligh="rigth" alt="coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+<h3 align="center">A passionate Junior Full Stack Developer from Portugal</h3>
+
+<img aligh="rigth" alt="coding" width="400" src="https://github.com/fhvicente/fhvicente/assets/134304084/d2cae88f-4106-464b-a8f4-5414bfeb8347">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fhvicente&label=Profile%20views&color=0e75b6&style=flat" alt="fhvicente" /> </p>
 
