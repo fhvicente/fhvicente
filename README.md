@@ -1,13 +1,11 @@
-![Header](https://github.com/fhvicente/fhvicente/assets/134304084/ffa0d553-8157-4b74-a90b-55a3e128ef0a)
-
-
+<div align="center">
+  <img src="https://github.com/fhvicente/fhvicente/assets/134304084/ffa0d553-8157-4b74-a90b-55a3e128ef0a" alt="Header" />
+</div>
 
 <h1 align="center">Hi 👋, I'm Flávio Vicente</h1>
 <h3 align="center">A passionate Junior Full Stack Developer from Portugal</h3>
+<img align="right" alt="coding" width="400" src="https://github.com/fhvicente/fhvicente/assets/134304084/d2cae88f-4106-464b-a8f4-5414bfeb8347">
 
-<img aligh="rigth" alt="coding" width="400" src="https://github.com/fhvicente/fhvicente/assets/134304084/d2cae88f-4106-464b-a8f4-5414bfeb8347">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fhvicente&label=Profile%20views&color=0e75b6&style=flat" alt="fhvicente" /> </p>
 
 - 🌱 I’m currently learning **React, Node.js and Typescript**
 
@@ -18,6 +16,7 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/fhsvicente/](https://www.linkedin.com/in/fhsvicente/)
 
 - ⚡ Fun fact **I'm a musician, i guess**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
